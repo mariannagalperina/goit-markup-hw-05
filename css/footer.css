@@ -124,7 +124,7 @@
   min-width: 165px;
   height: 40px;
   padding: 8px 24px;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   color: #fff;
   border: 0;
   border-radius: 4px;
@@ -138,7 +138,7 @@
 
 .footer-subscribe-button:hover,
 .footer-subscribe-button:focus {
-  background: #31d0aa;
+  background-color: #31d0aa;
 }
 
 .footer-subscribe-icon {
